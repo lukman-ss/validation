@@ -1,5 +1,7 @@
 # Lukman Validation
 
+![Lukman Validation Hero](docs/hero.jpg)
+
 A lightweight standalone PHP validation library with zero external runtime dependencies.
 
 ## Requirements
